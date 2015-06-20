@@ -50,7 +50,8 @@
 
 	a
 	{
-		color: #0075B2;
+		/*color: #0075B2;*/
+		color: #5D5D5D;
 		text-decoration: none;
 	}
 	
@@ -381,7 +382,7 @@
 
 			ul.dates li:first-child
 			{
-				border-top: 0;
+				border-top: 0;https://creativecommons.org/licenses/by/3.0/
 				padding-top: 0;
 			}
 			
@@ -1149,7 +1150,7 @@
 
 	#copyright
 	{	
-		text-align: right;
+		text-align: center;
 	}
 	
 		#copyright .links
@@ -1159,5 +1160,4 @@
 			background: rgba(255,255,255,0.05);
 			border-radius: 5px;
 			margin: 0;
-			color:##5D5D5D !important;  
 		}
