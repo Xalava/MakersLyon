@@ -1149,7 +1149,7 @@
 
 	#copyright
 	{	
-		text-align: center;
+		text-align: right;
 	}
 	
 		#copyright .links
@@ -1159,4 +1159,5 @@
 			background: rgba(255,255,255,0.05);
 			border-radius: 5px;
 			margin: 0;
+			color:##5D5D5D !important;  
 		}
