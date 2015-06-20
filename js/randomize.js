@@ -5,6 +5,13 @@ $(function() {
  
 });
 
+$(function() {
+
+ 
+    $("div.ligneMembres").randomize("div.membre");
+ 
+});
+
 
 
 (function($) {
