@@ -50,7 +50,8 @@
 
 	a
 	{
-		color: #0075B2;
+		/*color: #0075B2;*/
+		color: #5D5D5D;
 		text-decoration: none;
 	}
 	
@@ -381,7 +382,7 @@
 
 			ul.dates li:first-child
 			{
-				border-top: 0;
+				border-top: 0;https://creativecommons.org/licenses/by/3.0/
 				padding-top: 0;
 			}
 			
@@ -957,7 +958,7 @@
 	{
 
 		text-align: center;
-		font-size: 14;
+		font-size: 10;
 
 	}
 

@@ -1,6 +1,13 @@
 $(function() {
 
  
+    $("div.quisertarien").randomize("div.ligneMembres");
+ 
+});
+
+$(function() {
+
+ 
     $("div.ligneMembres").randomize("div.membre");
  
 });
